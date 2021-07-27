@@ -64,6 +64,8 @@ class EmployeeServiceTest {
         employee.setId(null);
 
         employeeServie.addEmployee(employee);
+
+        // check is addEmployee method hitting or not to check with times(1) --> 1 time
         Mockito.verify(employeeRepository, Mockito.times(1)).save(employee);
     }
 

@@ -1,3 +1,4 @@
-/home/it/Desktop/react-demo/src/test/java/com/example/reactdemo/EmployeeRepositoryTest.java
-/home/it/Desktop/react-demo/src/test/java/com/example/reactdemo/ReactDemoApplicationTests.java
-/home/it/Desktop/react-demo/src/test/java/com/example/reactdemo/service/EmployeeServiceTest.java
+/home/it/git_spring_react/employee/react-demo/src/test/java/com/example/reactdemo/controller/EmployeeControllerTest.java
+/home/it/git_spring_react/employee/react-demo/src/test/java/com/example/reactdemo/service/EmployeeServiceTest.java
+/home/it/git_spring_react/employee/react-demo/src/test/java/com/example/reactdemo/EmployeeRepositoryTest.java
+/home/it/git_spring_react/employee/react-demo/src/test/java/com/example/reactdemo/ReactDemoApplicationTests.java

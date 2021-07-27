@@ -1,1 +1,5 @@
+com/example/reactdemo/controller/EmployeeControllerTest$1.class
 com/example/reactdemo/ReactDemoApplicationTests.class
+com/example/reactdemo/service/EmployeeServiceTest.class
+com/example/reactdemo/EmployeeRepositoryTest.class
+com/example/reactdemo/controller/EmployeeControllerTest.class

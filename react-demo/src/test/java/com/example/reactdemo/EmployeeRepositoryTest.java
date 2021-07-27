@@ -35,8 +35,8 @@ import com.example.reactdemo.repository.EmployeeRepository;
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class EmployeeRepositoryTest {
 
-    @Resource
-    EmployeeRepository employeeRepository;
+    /*@Resource
+    EmployeeRepository employeeRepository;*/
 
     /*@Test
     @Rollback

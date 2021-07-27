@@ -29,8 +29,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 @AutoConfigureMockMvc
 class EmployeeControllerTest {
 
-    // mockmvc is used perform api action
-
     @Resource
     MockMvc mockMvc;
 

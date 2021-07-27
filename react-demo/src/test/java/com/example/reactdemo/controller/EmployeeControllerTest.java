@@ -93,7 +93,7 @@ class EmployeeControllerTest {
     }
 
     @Test
-    @DisplayName("Get All Employees")
+    @DisplayName("Rest Controller: Get All Employees")
     public void getAllEmployeesTest() throws Exception {
         Mockito.when(employeeServie.getAllEmployees()).thenReturn(employees);
 

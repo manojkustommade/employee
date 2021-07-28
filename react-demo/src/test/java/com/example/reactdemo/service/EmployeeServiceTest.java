@@ -65,7 +65,6 @@ class EmployeeServiceTest {
 
         employeeServie.addEmployee(employee);
 
-        // check is addEmployee method hitting or not to check with times(1) --> 1 time
         Mockito.verify(employeeRepository, Mockito.times(1)).save(employee);
     }
 
@@ -77,6 +76,7 @@ class EmployeeServiceTest {
         List<Employee> employees1 = employeeServie.getAllEmployees();
 
         Assert.isTrue(employees1.size() == employees.size(), "all employees matched");
+
     }
 
     @Test
